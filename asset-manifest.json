@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/foodiesah/static/css/main.61f5677f.chunk.css",
+    "main.js": "/foodiesah/static/js/main.0f03f71b.chunk.js",
+    "main.js.map": "/foodiesah/static/js/main.0f03f71b.chunk.js.map",
+    "runtime~main.js": "/foodiesah/static/js/runtime~main.3c8403d8.js",
+    "runtime~main.js.map": "/foodiesah/static/js/runtime~main.3c8403d8.js.map",
+    "static/js/2.09e08d19.chunk.js": "/foodiesah/static/js/2.09e08d19.chunk.js",
+    "static/js/2.09e08d19.chunk.js.map": "/foodiesah/static/js/2.09e08d19.chunk.js.map",
+    "index.html": "/foodiesah/index.html",
+    "precache-manifest.a9236d37c1a8886a5d3b001c1f2a5af8.js": "/foodiesah/precache-manifest.a9236d37c1a8886a5d3b001c1f2a5af8.js",
+    "service-worker.js": "/foodiesah/service-worker.js",
+    "static/css/main.61f5677f.chunk.css.map": "/foodiesah/static/css/main.61f5677f.chunk.css.map"
+  }
+}
